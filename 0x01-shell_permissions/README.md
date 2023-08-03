@@ -1,1 +1,1 @@
-permission readme
+current user group
