@@ -1,1 +1,1 @@
-current user group
+ownership readme
