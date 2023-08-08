@@ -1,1 +1,1 @@
-script that prints readme
+shell redirection
